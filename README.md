@@ -47,8 +47,6 @@ Matplotlib
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojrampur8&layout=compact&theme=tokyonight)
 
----
-
 ## 📫 Contact
 
 📧 Email: themanoj.rampur@gmail.com  
