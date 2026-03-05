@@ -34,7 +34,12 @@ Scikit-learn
 NumPy  
 Matplotlib  
 
----
+## 📂 Projects
+
+🔹 AI-Powered Face Recognition using PCA + ANN  
+🔹 Poverty Headcount Ratio Predictor (World Bank Dataset)  
+🔹 Smart Vehicle Access System using License Plate Recognition
+
 
 ## 📊 GitHub Stats
 
