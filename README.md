@@ -38,7 +38,7 @@ Matplotlib
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojrampur8&show_icons=true&theme=tokyonight)
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojrampur8&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojrampur8&layout=compact&theme=tokyonight)
 
