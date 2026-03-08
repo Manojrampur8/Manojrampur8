@@ -123,9 +123,8 @@ https://github.com/Manojrampur8/Poverty-Headcount-Ratio-Predictor
 💻 GitHub: https://github.com/Manojrampur8
 
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Manojrampur8/Manojrampur8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Manojrampur8/Manojrampur8/output/github-contribution-grid-snake.svg)
 
 ⭐ *Always open to learning, collaborating, and building impactful AI solutions.*
