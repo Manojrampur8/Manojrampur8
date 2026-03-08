@@ -30,14 +30,20 @@ An **AI-based automated vehicle access control system** using Computer Vision an
 
 Technologies: OpenCV, OCR, Python, Machine Learning
 
+🔗 Repository  
+https://github.com/Manojrampur8/AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System-for-Campus-Security
+
 ---
 
-### 📊 Financial Fraud Detection using Machine Learning
+### 💳 Financial Fraud Detection using Machine Learning
 Built a machine learning classification system to identify **fraudulent financial transactions** using transaction data analysis and predictive modeling.
 
 ✔ Confusion Matrix & ROC Curve evaluation  
 ✔ Feature importance analysis  
 ✔ Fraud prediction using ML models
+
+🔗 Repository  
+https://github.com/Manojrampur8/Financial-Fraud-Detection-ML
 
 ---
 
@@ -48,6 +54,9 @@ Developed predictive models to estimate **student exam performance** using socio
 ✔ Model comparison using multiple ML algorithms  
 ✔ Performance evaluation and visualization
 
+🔗 Repository  
+https://github.com/Manojrampur8/Machine-Learning-Models-for-Predicting-Student-Academic-Performance
+
 ---
 
 ### 🌍 Poverty Headcount Ratio Predictor
@@ -56,6 +65,9 @@ Created a **data-driven machine learning model** to analyze poverty indicators u
 ✔ Data analysis & visualization  
 ✔ Regression-based predictive modeling  
 ✔ Socio-economic insights extraction
+
+🔗 Repository  
+https://github.com/Manojrampur8/Poverty-Headcount-Ratio-Predictor
 
 ---
 
