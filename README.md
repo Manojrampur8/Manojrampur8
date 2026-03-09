@@ -58,8 +58,8 @@ Built a machine learning classification system to identify **fraudulent financia
 ✔ Feature importance analysis  
 ✔ Fraud prediction using ML models
 
-🔗 Repository  
-https://github.com/Manojrampur8/Financial-Fraud-Detection-ML
+🔗 Repository  [
+https://github.com/Manojrampur8/Financial-Fraud-Detection-ML](https://github.com/Manojrampur8/Financial-Fraud-Detection-ML)
 
 ---
 
