@@ -25,8 +25,8 @@ Developed an advanced hybrid face recognition system combining **Eigenfaces (PCA
 ✔ Achieved **97.5% recognition accuracy**
 
 🔗 Repository  
-https://github.com/Manojrampur8/Advanced-AI-Powered-Face-Recognition-Using-PCA-Neural-Networks
-
+[https://github.com/Manojrampur8/Advanced-AI-Powered-Face-Recognition-Using-PCA-Neural-Networks
+](https://github.com/Manojrampur8/Advanced-AI-Powered-Face-Recognition-Using-PCA-Neural-Networks.)
 ---
 
 ### 🚗 AI-Powered Smart Vehicle Access & License Plate Recognition System
