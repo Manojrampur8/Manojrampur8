@@ -41,8 +41,8 @@ An **AI-based automated vehicle access control system** using Computer Vision an
 ⭐ **Selected for real-time deployment at Jain Institute of Technology, Davanagere**
 
 🔗 Repository  
-https://github.com/Manojrampur8/AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System-for-Campus-Security
-
+[https://github.com/Manojrampur8/AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System-for-Campus-Security
+](https://github.com/Manojrampur8/-AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System-for-Campus-Security.)
 ---
 
 ### 💳 Financial Fraud Detection using Machine Learning
