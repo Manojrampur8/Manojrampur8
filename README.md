@@ -7,6 +7,15 @@
 Passionate about building **AI-driven solutions using Machine Learning and Computer Vision** to solve real-world problems. My work focuses on **intelligent systems, predictive models, and automation using AI technologies**.
 
 ---
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/manoj-s-618658379" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -113,6 +122,7 @@ Created a **data-driven machine learning model** to analyze poverty indicators u
 <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,sklearn,mysql,git,github,linux,vscode&perline=10" />
 </p>
 ---
+
 ## 📊 GitHub Stats
 
 ![Manoj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojrampur8&show_icons=true)
