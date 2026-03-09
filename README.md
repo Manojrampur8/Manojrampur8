@@ -77,8 +77,8 @@ Developed predictive models to estimate **student exam performance** using socio
 ✔ Performance evaluation and visualization
 
 🔗 Repository  
-https://github.com/Manojrampur8/Machine-Learning-Models-for-Predicting-Student-Academic-Performance
-
+[https://github.com/Manojrampur8/Machine-Learning-Models-for-Predicting-Student-Academic-Performance
+](https://github.com/Manojrampur8/ML-Student-Academic-Performance-Prediction)
 ---
 
 ### 🌍 Poverty Headcount Ratio Predictor
