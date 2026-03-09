@@ -95,8 +95,7 @@ Created a **data-driven machine learning model** to analyze poverty indicators u
 ✔ Socio-economic insights extraction
 
 🔗 Repository  
-https://github.com/Manojrampur8/Poverty-Headcount-Ratio-Predictor
-
+ https://github.com/Manojrampur8/Poverty-Headcount-Ratio-Predictor
 ---
 
 ## 🧠 Technical Skills
