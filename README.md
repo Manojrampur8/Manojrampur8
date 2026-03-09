@@ -110,9 +110,9 @@ Created a **data-driven machine learning model** to analyze poverty indicators u
 
 ## 📊 GitHub Stats
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojrampur8&show_icons=true&count_private=true)
+![Manoj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojrampur8&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojrampur8&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manojrampur8&layout=compact)
 ---
 
 ## 📫 Contact
