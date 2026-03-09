@@ -107,7 +107,12 @@ Created a **data-driven machine learning model** to analyze poverty indicators u
 **Visualization:** Matplotlib, Seaborn  
 
 ---
+## 🛠 Languages and Tools
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,sklearn,mysql,git,github,linux,vscode&perline=10" />
+</p>
+---
 ## 📊 GitHub Stats
 
 ![Manoj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojrampur8&show_icons=true)
